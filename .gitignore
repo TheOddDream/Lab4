@@ -1,0 +1,18 @@
+# CLion и сборка
+.idea/
+cmake-build-debug/
+CMakeLists.txt.user
+cmake-build-*/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# Файлы сборки
+*.o
+*.exe
+*.out
+
+# Системные файлы
+.DS_Store
